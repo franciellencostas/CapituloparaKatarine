@@ -13,7 +13,7 @@
     <div id="conteudo">
         <h2>Aceita continuar escrevendo a nossa historia?</h2>
         <div style="margin: auto;width: 170px;">
-            <button style="position: fixed;display: block;" class="btn" onclick="sim()">SIM, MAS CRESCA!</button>
+            <button style="position: fixed;display: block;" class="btn" onclick="sim()">SIM!</button>
             <button class="btn" onclick="desvia(this)" onmouseover="desvia(this)" style="position: absolute;">NÃO!</button>
         </div>
     </div>
